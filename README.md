@@ -1,6 +1,5 @@
-# GAM-GAMV-GUI-AND-K3TD
+# GAM/GAMV GUI & K3TD
 
-GAM/GAMV GUI & K3TD
 
 The geostatistical mapping of anomaly density module for UXO applications in VSP requires these two additional software packages developed by Sandia National Laboratories. GAM/GAMV provides the estimation tools to calculate the appropriate spatial models (variogram) and provides the input necessary for KT3D. KT3D uses the spatial model to provide estimates of the anomaly densities at the unsampled locations within the sample area. Both of these packages must be installed in the appropriate directories for proper integration with VSP (Visual Sample Plan).
 
